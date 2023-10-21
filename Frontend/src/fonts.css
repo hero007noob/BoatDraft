@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Metropolis";
+  src: url("/fonts/metropolis/Metropolis-Regular.otf") format("opentype");
+  /* You can specify multiple font file formats for cross-browser compatibility. */
+}
